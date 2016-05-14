@@ -1,0 +1,6 @@
+c:\users\marwan\documents\visual studio 2013\Projects\HeapAssignment\HeapAssignment\bin\Debug\HeapAssignment.exe.config
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\HeapAssignment\HeapAssignment\obj\Debug\HeapAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\HeapAssignment\HeapAssignment\bin\Debug\HeapAssignment.exe
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\HeapAssignment\HeapAssignment\bin\Debug\HeapAssignment.pdb
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\HeapAssignment\HeapAssignment\obj\Debug\HeapAssignment.exe
+C:\Users\Marwan\Documents\Visual Studio 2013\Projects\HeapAssignment\HeapAssignment\obj\Debug\HeapAssignment.pdb
